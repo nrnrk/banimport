@@ -1,0 +1,16 @@
+{
+  "pattern": {
+    "c/svca": [
+      "c/svcb",
+      "c/svcc"
+    ],
+    "c/svcb": [
+      "c/svcc",
+      "c/svca"
+    ],
+    "c/svcc": [
+      "c/svca",
+      "c/svcb"
+    ]
+  }
+}

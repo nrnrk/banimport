@@ -5,7 +5,7 @@ This tool detects prohibited imports. You can control "import dependencies" amon
 ## Install
 
 ```shell
-go install github.com/nrnrk/banimport@latest
+go install github.com/nrnrk/banimport/cmd/banimport@latest
 ```
 
 ## How to use
@@ -13,7 +13,7 @@ go install github.com/nrnrk/banimport@latest
 1. Install command
 
 ```shell
-go install github.com/nrnrk/banimport@latest
+go install github.com/nrnrk/banimport/cmd/banimport@latest
 ```
 
 2. Prepare config file
